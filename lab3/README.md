@@ -82,7 +82,7 @@ RAII (Resource Acquisition Is Initialization) – принцип, согласн
 
 ## 4. Листинг программы
 
-Ниже приведён согласованный итоговый код на C++ в одном файле (`lab3_vector_variant5.cpp`).
+Ниже приведён итоговый код на C++
 
 ```cpp
 #include <iostream>
